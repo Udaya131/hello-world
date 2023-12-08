@@ -2,6 +2,6 @@
 
 A Short Description
 
-this is a short story about this website and my pet mosquito
+This is a short story about this website and my pet mosquito
 
-search for markdown github
+Search for markdown github
