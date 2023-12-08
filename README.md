@@ -1,6 +1,6 @@
 # hello-world
 
-A short Description
+A Short Description
 
 this is a short story about this website and my pet mosquito
 
